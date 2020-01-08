@@ -1,2 +1,2 @@
-import factorial
-print(factorial(5))
+import functions as k
+print(k.prime(6))
