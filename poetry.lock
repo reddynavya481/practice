@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "A simple factorial function"
+name = "factorial1"
+optional = false
+python-versions = "*"
+version = "1.0.0"
+
+[metadata]
+content-hash = "b7552bb76141fabb298fe6094692fac612adc41c1f32a0797367803b2eb93b1c"
+python-versions = "^3.7"
+
+[metadata.hashes]
+factorial1 = ["6ad370d656af1b72dafae322ecc121d4ff4b6b8f39d5fc9357d7e96a61079c99"]
